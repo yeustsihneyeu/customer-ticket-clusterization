@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.ticketcluster/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files)
+data/*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Generated
+reports/figures/*.png
+
+# Project docs (not for repo)
+PLAN.md
+reports/eda_techniques_guide.md
