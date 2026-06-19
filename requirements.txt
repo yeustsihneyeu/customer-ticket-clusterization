@@ -4,3 +4,11 @@ ipykernel
 jinja2
 matplotlib
 seaborn
+sentence-transformers
+umap-learn
+hdbscan
+kneed
+plotly
+kaleido
+wordcloud
+nbformat

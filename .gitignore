@@ -14,10 +14,12 @@ build/
 
 # Data (large files)
 data/*.csv
+data/*.npy
 
 # IDE
 .vscode/
 .idea/
+.claude/settings.local.json
 
 # OS
 .DS_Store
